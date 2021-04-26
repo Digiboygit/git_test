@@ -1,0 +1,1 @@
+This is Ernestoś first git project!
